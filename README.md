@@ -14,7 +14,7 @@
 
 <br>
 
-     Segue ai nas redes sociais 😼
+ ### Segue ai nas redes sociais 😼
 
 <div> 
   
