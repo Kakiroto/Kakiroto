@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Kakiroto 😼
+## Bem-vindo(a) ao perfil do Ricardo 😼
 
  <div>
-   <a href="https://github.com/Kakiroto">
+   <a href="https://github.com/ricardo_f702">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kakiroto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakiroto&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo_f702&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -14,6 +14,6 @@
  
 <div> 
   
-  ![Snake animation](https://github.com/Kakiroto/Kakiroto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kakiroto/ricardo_f702/blob/output/github-contribution-grid-snake.svg)
 
 </div>
